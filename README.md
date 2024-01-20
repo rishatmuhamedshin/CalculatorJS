@@ -1,2 +1,4 @@
-# CalculatorJS
-I'm trying to create a calculator and learning JavaScript along the way.
+# Calculator JavaScript
+Just a calculator, test your Javascript skills
+_____
+![fianlResult](/finalResult.png)
